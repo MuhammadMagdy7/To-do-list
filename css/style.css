@@ -1,0 +1,19 @@
+body {
+    background-color: #232123;
+    color: #fff;
+}
+
+
+input{
+    background-color: #121113 !important;
+}
+
+
+
+.u-full-width.mt-3.btn.btn-primary{
+    letter-spacing: 4px;
+}
+
+button{
+    background-color: #0FA0CE !important ;
+}
